@@ -1,4 +1,4 @@
-# Iris Flower Classification (Professional Version)
+# Iris Flower Classification
 
 ## Project Overview
 
